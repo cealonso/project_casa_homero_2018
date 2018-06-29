@@ -1,0 +1,23 @@
+{"prestaciones":[
+	{
+		"id":1,
+		"descripcion": "Venta Telefónica"
+	},
+	{
+		"id":2,
+		"descripcion": "Capacitaciones"
+	},
+	{
+		"id":3,
+		"descripcion": "Venta Online"
+	},
+	{
+		"id":4,
+		"descripcion": "Entrega de Mercadería"
+	},
+	{
+		"id":5,
+		"descripcion": "12 Cuotas sin intereses"
+	}
+]
+}

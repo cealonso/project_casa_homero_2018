@@ -1,0 +1,27 @@
+@charset "utf-8";
+table {
+	width:100%;
+	margin: 0px auto;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+th {
+	background-color: #161414;
+	color: #ffffff;
+}
+
+td, tr, th {
+	border: 1px solid #CCCCCC;
+	padding: 7px
+}
+
+tbody tr:nth-child(even) td 
+{
+     background-color: #eeeeee;
+}
+tbody tr:nth-child(odd) td
+{
+    background-color: #ffffff;
+}
+
